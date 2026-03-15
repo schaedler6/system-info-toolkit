@@ -1,8 +1,12 @@
 # System Info Toolkit
 
+<<<<<<< HEAD
 PowerShell toolkit to collect detailed system information on Windows environments.
 
 ---
+=======
+PowerShell toolkit to collect detailed system information in Windows environments.
+>>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
 
 ## Overview
 
@@ -18,8 +22,11 @@ This project provides a PowerShell script that collects and displays important s
 - Network adapters
 - Top CPU-consuming processes
 
+<<<<<<< HEAD
 ---
 
+=======
+>>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
 ## Use Cases
 
 This toolkit is useful for:
@@ -31,19 +38,26 @@ This toolkit is useful for:
 - Cybersecurity baseline analysis
 - Learning PowerShell and Windows internals
 
+<<<<<<< HEAD
 ---
 
+=======
+>>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
 ## Requirements
 
 - Windows 10 or Windows 11
 - PowerShell 5.1 or PowerShell 7+
 
+<<<<<<< HEAD
 ---
 
+=======
+>>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
 ## Usage
 
 Run the script:
 
+<<<<<<< HEAD
 ```powershell
 .\system-info.ps1
 SYSTEM INFORMATION TOOLKIT
@@ -98,3 +112,29 @@ IT Support • Cybersecurity Student • Systems Automation
 
 GitHub:
 https://github.com/schaedler6
+=======
+.\system-info.ps1
+
+## Features
+
+- Lightweight
+- No external dependencies
+- Fast execution
+- Safe and read-only
+- Enterprise-compatible
+- Useful for diagnostics and incident preparation
+
+## Security
+
+This script:
+- does not modify system settings
+- does not transmit data externally
+- only reads local system information
+
+Safe for enterprise and lab environments.
+
+## Author
+
+Sidinei Roberto Schaedler
+
+>>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
