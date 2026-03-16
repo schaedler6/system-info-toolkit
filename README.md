@@ -1,140 +1,27 @@
-# System Info Toolkit
+# system-info-toolkit
 
-<<<<<<< HEAD
-PowerShell toolkit to collect detailed system information on Windows environments.
+Toolkit em PowerShell para coleta de informações de sistema e apoio a suporte técnico.
 
----
-=======
-PowerShell toolkit to collect detailed system information in Windows environments.
->>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
+## Foco do projeto
+- PowerShell
+- Diagnóstico de sistema
+- Inventário técnico
+- Suporte técnico
+- Automação local
 
-## Overview
+## Objetivo
+Este projeto reúne scripts úteis para análise de ambiente Windows, coleta de dados técnicos e apoio em rotinas de suporte.
 
-This project provides a PowerShell script that collects and displays important system information, including:
+## Tecnologias
+- PowerShell
+- Windows
+- Scripts de automação
 
-- Computer name
-- Current user
-- Windows version
-- System uptime
-- CPU information
-- RAM usage
-- Disk usage
-- Network adapters
-- Top CPU-consuming processes
+## Diferenciais
+- Aplicação prática
+- Utilidade real em suporte
+- Fácil expansão para novas rotinas
 
-<<<<<<< HEAD
----
+## Autor
+Sidinei Schaedler
 
-=======
->>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
-## Use Cases
-
-This toolkit is useful for:
-
-- IT Support technicians
-- System administrators
-- Troubleshooting and diagnostics
-- System auditing
-- Cybersecurity baseline analysis
-- Learning PowerShell and Windows internals
-
-<<<<<<< HEAD
----
-
-=======
->>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
-## Requirements
-
-- Windows 10 or Windows 11
-- PowerShell 5.1 or PowerShell 7+
-
-<<<<<<< HEAD
----
-
-=======
->>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
-## Usage
-
-Run the script:
-
-<<<<<<< HEAD
-```powershell
-.\system-info.ps1
-SYSTEM INFORMATION TOOLKIT
-
-Computer Name:
-YHWH
-
-Current User:
-YUD\VAV
-
-Windows Version:
-Microsoft Windows 11 Pro
-
-System Uptime:
-0 days, 13 hours, 49 minutes
-
-CPU Info:
-Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
-
-RAM Info:
-Total RAM: 63.9 GB
-Features
-
-Lightweight
-
-No external dependencies
-
-Fast execution
-
-Safe (read-only)
-
-Enterprise-compatible
-
-Ideal for IT diagnostics and incident response preparation
-
-Security
-
-This script:
-
-Does NOT modify system settings
-
-Does NOT transmit data externally
-
-Only reads system information locally
-
-Safe for enterprise environments.
-
-Author
-
-Sid Schaedler
-IT Support • Cybersecurity Student • Systems Automation
-
-GitHub:
-https://github.com/schaedler6
-=======
-.\system-info.ps1
-
-## Features
-
-- Lightweight
-- No external dependencies
-- Fast execution
-- Safe and read-only
-- Enterprise-compatible
-- Useful for diagnostics and incident preparation
-
-## Security
-
-This script:
-- does not modify system settings
-- does not transmit data externally
-- only reads local system information
-
-Safe for enterprise and lab environments.
-
-## Author
-
-Sidinei Roberto Schaedler
-
->>>>>>> de097f7 (docs: improve system-info-toolkit documentation)
